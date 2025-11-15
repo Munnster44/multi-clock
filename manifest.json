@@ -1,7 +1,7 @@
 {
   "name": "Multi Clock Canada & World + Timer",
   "short_name": "MultiClock",
-  "start_url": "/multi-clock/multi-clock-v1.9.html",
+  "start_url": "/multi-clock/index.html",
   "display": "standalone",
   "background_color": "#eef6ff",
   "theme_color": "#0055aa",
@@ -18,3 +18,4 @@
     }
   ]
 }
+
